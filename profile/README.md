@@ -1,5 +1,5 @@
 <div align="center">
-<img src="./profile/imgs/applicator.png">
+<img src="./profile/imgs/applicator.png" width="100%">
 
 Society in Seoul National University of Science and Technology, Dept. of Applied Artifical Intelligence
 </div>
