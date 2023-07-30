@@ -1,5 +1,5 @@
 <div align="center">
-<img src="./profile/imgs/applicator.png" width="100%">
+<img src="https://raw.githubusercontent.com/stnuc/.github/main/profile/imgs/applicator.svg" width="100%">
 
 Society in Seoul National University of Science and Technology, Dept. of Applied Artifical Intelligence
 </div>
