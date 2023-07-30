@@ -1,6 +1,6 @@
 <div align="center">
-<img src="./imgs/dark_logo.png" media="(prefer-color-scheme: light)">
-<img src="./imgs/light_logo.png" media="(prefer-color-scheme: dark)">
+<img src="./profile/imgs/dark_logo.png" media="(prefer-color-scheme: light)">
+<img src="./profile/imgs/light_logo.png" media="(prefer-color-scheme: dark)">
 </div>
 
 <div align="center">
