@@ -41,6 +41,6 @@ Commonly, opened by undergraduate researcher
     founded = {2021 april},
     core    = {programming, AI}
     members = {25 (since, 2023 april)}
-    email   = {connacttostnuc@gmail.com}
+    email   = {contacttostnuc@gmail.com}
 }
 ```
