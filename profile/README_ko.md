@@ -12,7 +12,7 @@ Languages
 </div>
 
 # Applicator
-Hello, there 👋
+Hello there 👋
 
 Applicator는 서울과학기술대학교, 인공지능응용학과 학술동아리입니다    
 아이디어와 지식을 이해하는데 집중하며, 이러한 지식들을 공유합니다  

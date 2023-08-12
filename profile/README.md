@@ -12,7 +12,7 @@ Languages
 </div>
 
 # Applicator
-Hello, there 👋
+Hello there 👋
 
 Applicator is society in Seoul National University of Science and Technology, Dept. of Applied Artifical Intelligence  
 Focus on understanding idea and knowledge, and share these things each other  
