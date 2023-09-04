@@ -14,7 +14,7 @@ Languages
 # Applicator
 Hello there 👋
 
-Applicator is society in Seoul National University of Science and Technology, Dept. of Applied Artifical Intelligence  
+Applicator is society in Seoul National University of Science and Technology, Dept. of Applied Artificial Intelligence  
 Focus on understanding idea and knowledge, and share these things each other  
 
 # Session
