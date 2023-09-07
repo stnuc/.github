@@ -27,7 +27,8 @@ Applicator는 서울과학기술대학교, 인공지능응용학과 학술동아
 
 ### Project
 방학동안 진행되는 프로젝트입니다  
-1년에 두번 진행되며, 발표회를 갖습니다   
+1년에 두번 진행되며, 발표회를 갖습니다  
+[프로젝트 보기](https://github.com/stnuc/applicator-projects/blob/main/projects/projects.md)   
 
 
 ### Seminar

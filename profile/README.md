@@ -28,6 +28,7 @@ Study basic things with members
 ### Project
 Go ahead with the project during vacation  
 Also, can work on the project with other members (team project)  
+[See project list](https://github.com/stnuc/applicator-projects/blob/main/projects/projects.md)  
 
 
 ### Seminar
