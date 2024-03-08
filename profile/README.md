@@ -41,7 +41,7 @@ Commonly, opened by undergraduate researcher
 @profile{applicator,
     founded = {2021 april},
     core    = {programming, AI}
-    members = {25 (since, 2023 april)}
+    members = {50 (since, 2023 april)}
     email   = {contacttostnuc@gmail.com}
 }
 ```
